@@ -1,0 +1,21 @@
+{
+  "name": "Mis Hanabi",
+  "short_name": "Mis Hanabi",
+  "description": "Tu tracker personal de K-Dramas, Anime, Manga y más",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0b12",
+  "theme_color": "#e8507a",
+  "orientation": "any",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='80' fill='%230b0b12'/><text y='320' x='80' font-size='320' font-family='serif'>🌸</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["entertainment", "lifestyle"],
+  "screenshots": []
+}
